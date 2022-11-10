@@ -35,7 +35,7 @@ def main():
     print("Name of chemical formula:", formula_name)
 
 def make_periodic_table():
-
+# some comment
     periodic_table_list = {
         # symbol: [name, atomic_mass]
         "Ac":  	["Actinium", 227],
